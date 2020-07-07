@@ -1,0 +1,27 @@
+SAMD21 on Arduino IDE - Reference Link Below
+
+https://github.com/AtmelUniversityFrance/atmel-samd21-xpro-boardmanagermodule/wiki/HowTo:-Install-this-module
+
+Using Xplained Pro On Arduino IDE link below
+
+https://github.com/AtmelUniversityFrance/atmel-samd21-xpro-boardmanagermodule/wiki/GettingStarted:-SAMD21-Xplained-Pro
+
+------------------------------------------------------------------------------------------------------------------------
+
+The Code is largely compatible with Arduino UNO.(make sure you configure the button D3 before testing on Arduino, which is required to initial Gesture input)
+
+------------------------------------------------------------------------------------------------------------------------
+
+Available with hyperlink in the project Report Document
+
+Video Demonstration Links Below.
+Youtube Link (public)
+
+https://youtu.be/EAzF-qWpPu4
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
